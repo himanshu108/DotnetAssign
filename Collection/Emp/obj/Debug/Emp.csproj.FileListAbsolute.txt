@@ -1,0 +1,8 @@
+C:\Users\sai\source\repos\Collection\Emp\bin\Debug\Emp.exe.config
+C:\Users\sai\source\repos\Collection\Emp\bin\Debug\Emp.exe
+C:\Users\sai\source\repos\Collection\Emp\bin\Debug\Emp.pdb
+C:\Users\sai\source\repos\Collection\Emp\obj\Debug\Emp.csproj.AssemblyReference.cache
+C:\Users\sai\source\repos\Collection\Emp\obj\Debug\Emp.csproj.SuggestedBindingRedirects.cache
+C:\Users\sai\source\repos\Collection\Emp\obj\Debug\Emp.csproj.CoreCompileInputs.cache
+C:\Users\sai\source\repos\Collection\Emp\obj\Debug\Emp.exe
+C:\Users\sai\source\repos\Collection\Emp\obj\Debug\Emp.pdb

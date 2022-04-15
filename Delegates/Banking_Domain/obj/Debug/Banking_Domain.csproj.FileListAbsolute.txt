@@ -1,0 +1,8 @@
+C:\Users\sai\source\repos\Delegates\Banking_Domain\bin\Debug\Banking_Domain.exe.config
+C:\Users\sai\source\repos\Delegates\Banking_Domain\bin\Debug\Banking_Domain.exe
+C:\Users\sai\source\repos\Delegates\Banking_Domain\bin\Debug\Banking_Domain.pdb
+C:\Users\sai\source\repos\Delegates\Banking_Domain\obj\Debug\Banking_Domain.csproj.AssemblyReference.cache
+C:\Users\sai\source\repos\Delegates\Banking_Domain\obj\Debug\Banking_Domain.csproj.SuggestedBindingRedirects.cache
+C:\Users\sai\source\repos\Delegates\Banking_Domain\obj\Debug\Banking_Domain.csproj.CoreCompileInputs.cache
+C:\Users\sai\source\repos\Delegates\Banking_Domain\obj\Debug\Banking_Domain.exe
+C:\Users\sai\source\repos\Delegates\Banking_Domain\obj\Debug\Banking_Domain.pdb

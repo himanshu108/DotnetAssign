@@ -1,0 +1,8 @@
+C:\Users\sai\source\repos\AssignmentOnLinq\AssignmentOnLinq\bin\Debug\AssignmentOnLinq.exe.config
+C:\Users\sai\source\repos\AssignmentOnLinq\AssignmentOnLinq\bin\Debug\AssignmentOnLinq.exe
+C:\Users\sai\source\repos\AssignmentOnLinq\AssignmentOnLinq\bin\Debug\AssignmentOnLinq.pdb
+C:\Users\sai\source\repos\AssignmentOnLinq\AssignmentOnLinq\obj\Debug\AssignmentOnLinq.csproj.AssemblyReference.cache
+C:\Users\sai\source\repos\AssignmentOnLinq\AssignmentOnLinq\obj\Debug\AssignmentOnLinq.csproj.SuggestedBindingRedirects.cache
+C:\Users\sai\source\repos\AssignmentOnLinq\AssignmentOnLinq\obj\Debug\AssignmentOnLinq.csproj.CoreCompileInputs.cache
+C:\Users\sai\source\repos\AssignmentOnLinq\AssignmentOnLinq\obj\Debug\AssignmentOnLinq.exe
+C:\Users\sai\source\repos\AssignmentOnLinq\AssignmentOnLinq\obj\Debug\AssignmentOnLinq.pdb

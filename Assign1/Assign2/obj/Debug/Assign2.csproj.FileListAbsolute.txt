@@ -1,0 +1,8 @@
+C:\Users\sai\source\repos\Assign1\Assign2\bin\Debug\Assign2.exe.config
+C:\Users\sai\source\repos\Assign1\Assign2\bin\Debug\Assign2.exe
+C:\Users\sai\source\repos\Assign1\Assign2\bin\Debug\Assign2.pdb
+C:\Users\sai\source\repos\Assign1\Assign2\obj\Debug\Assign2.csproj.AssemblyReference.cache
+C:\Users\sai\source\repos\Assign1\Assign2\obj\Debug\Assign2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sai\source\repos\Assign1\Assign2\obj\Debug\Assign2.csproj.CoreCompileInputs.cache
+C:\Users\sai\source\repos\Assign1\Assign2\obj\Debug\Assign2.exe
+C:\Users\sai\source\repos\Assign1\Assign2\obj\Debug\Assign2.pdb

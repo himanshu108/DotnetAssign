@@ -1,0 +1,8 @@
+C:\Users\sai\source\repos\Linq\LinqEx\bin\Debug\LinqEx.exe.config
+C:\Users\sai\source\repos\Linq\LinqEx\bin\Debug\LinqEx.exe
+C:\Users\sai\source\repos\Linq\LinqEx\bin\Debug\LinqEx.pdb
+C:\Users\sai\source\repos\Linq\LinqEx\obj\Debug\LinqEx.csproj.AssemblyReference.cache
+C:\Users\sai\source\repos\Linq\LinqEx\obj\Debug\LinqEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\sai\source\repos\Linq\LinqEx\obj\Debug\LinqEx.csproj.CoreCompileInputs.cache
+C:\Users\sai\source\repos\Linq\LinqEx\obj\Debug\LinqEx.exe
+C:\Users\sai\source\repos\Linq\LinqEx\obj\Debug\LinqEx.pdb

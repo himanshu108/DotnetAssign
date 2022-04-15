@@ -1,0 +1,8 @@
+C:\Users\sai\source\repos\Linq\LinqAssign\bin\Debug\LinqAssign.exe.config
+C:\Users\sai\source\repos\Linq\LinqAssign\bin\Debug\LinqAssign.exe
+C:\Users\sai\source\repos\Linq\LinqAssign\bin\Debug\LinqAssign.pdb
+C:\Users\sai\source\repos\Linq\LinqAssign\obj\Debug\LinqAssign.csproj.AssemblyReference.cache
+C:\Users\sai\source\repos\Linq\LinqAssign\obj\Debug\LinqAssign.csproj.SuggestedBindingRedirects.cache
+C:\Users\sai\source\repos\Linq\LinqAssign\obj\Debug\LinqAssign.csproj.CoreCompileInputs.cache
+C:\Users\sai\source\repos\Linq\LinqAssign\obj\Debug\LinqAssign.exe
+C:\Users\sai\source\repos\Linq\LinqAssign\obj\Debug\LinqAssign.pdb

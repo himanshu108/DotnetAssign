@@ -1,0 +1,8 @@
+C:\Users\sai\source\repos\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\sai\source\repos\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\sai\source\repos\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\sai\source\repos\Generics\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\sai\source\repos\Generics\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+C:\Users\sai\source\repos\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\sai\source\repos\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\sai\source\repos\Generics\Generics\obj\Debug\Generics.pdb
